@@ -17,7 +17,7 @@ public class Ejercicio003 {
                 "pyramid", "pirámide");
 
         JTextArea textArea = new JTextArea(formattedMessage);
-        textArea.setFont(new java.awt.Font("Monospaced", 0, 12));  // Fuente monoespaciada
+        textArea.setFont(new java.awt.Font("Monospaced", 1, 18));  // Fuente monoespaciada
         textArea.setEditable(false);  // Asegúrate de que no sea editable
         textArea.setOpaque(false);  // Hace que sea transparente
 
